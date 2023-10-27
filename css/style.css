@@ -634,56 +634,12 @@ p
 {
     html
     {
-        font-size: 72.5%;
+        font-size: 78.5%;
     }
 
     .header
     {
-        padding: .3rem;
-    }
-
-    .about
-    {
-        font-size: 1.8rem;
-        padding-top: 17rem;
-        padding: 1rem;
-        width: 100%;
-    } 
-
-    .test
-    {
-        font-size: 1.8rem;
-        padding: 1rem;
-        width: 100%;
-    } 
-
-    .services
-    {
-        font-size: 1.8rem;
-        padding: 1rem;
-        width: 100%;
-    } 
-
-    table  
-    {
-        width: 100%;
-        padding: 1rem;
-        padding: 1rem ;
-    }
-
-    h4
-    {
-        font-size: 2.3rem;
-    }
-
-    p 
-    {
-        font-size: 1.8rem;
-    }
-
-    h1 
-    {
-        font-size: 2.5rem;
+        padding: 2.5rem;
     }
 
     .footer
@@ -702,26 +658,16 @@ p
         display: inline-block;
     }
 
-    .header .search-form
-    {
-        width: 90%;
-    }
-
     .header .navbar
     {
         position: absolute;
         top: 110%;
-        right: -110%;
-        width: 30rem;
+        right: -130%;
+        width: 40rem;
         box-shadow: var(--box-shadow);
         border-radius: .5rem;
         color: var(--labwox-black);
         background: var(--labwox-red);
-    }
-
-    .header
-    {
-        padding: .3rem;
     }
 
     .header .navbar a
@@ -730,103 +676,21 @@ p
         margin: 2rem 2.5rem;
         display: block;
     }
-
-    .about
-    {
-        font-size: 1.8rem;
-        padding-top: 17rem;
-        padding: 1rem;
-        width: 100%;
-    } 
-
-    .test
-    {
-        font-size: 1.5rem;
-        padding: 1rem;
-        width: 100%;
-    } 
-
-    .services
-    {
-        font-size: 1.8rem;
-        padding: 1rem;
-        width: 100%;
-    } 
-
-    h4
-    {
-        font-size: 2.4rem;
-    }
-
-    p 
-    {
-        font-size: 1.8rem;
-    }
-
-    .footer
-    {
-        text-align: center;
-        width: 100%;
-        font-size: 16px;
-    }
-
-    h1 
-    {
-        font-size: 3.5rem;
-    }
 }
 
 @media (max-width: 450px)
 {
     html
     {
-        font-size: 80.6%;
+        font-size: 70.6%;
     }
 
-    .about
-    {
-        font-size: 1.8rem;
-        padding-top: 17rem;
 
-    } 
-
-    .test
-    {
-        font-size: 1.8rem;
-        padding: 1rem;
-    } 
-
-    .services
-    {
-        font-size: 1.8rem;
-        padding: 1rem;
-    } 
-
-    
- 
     .footer
     {
         text-align: center;
-        width: 100%;
-        font-size: 16px;
     }
 
-
-    .header
-    {
-        padding: 1rem;
-    }
-
-    h4
-    {
-        font-size: 2.3rem;
-        padding: 1rem;
-    }
-
-    p 
-    {
-        font-size: 1.8rem;
-    }
 
     h1 
     {
