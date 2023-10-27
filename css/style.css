@@ -644,49 +644,57 @@ p
 
     .about
     {
-        font-size: 3.5rem;
-        padding: .1rem;
+        font-size: 1.8rem;
+        padding: 1rem;
+        width: 100%;
     } 
 
     .test
     {
-        font-size: 1.5rem;
-        padding: .1rem;
+        font-size: 1.8rem;
+        padding: 1rem;
+        width: 100%;
     } 
 
     .services
     {
-        font-size: 1.5rem;
-        padding: .1rem;
+        font-size: 1.8rem;
+        padding: 1rem;
+        width: 100%;
     } 
 
     table  
     {
         width: 100%;
         padding-right: 1rem;
-        padding: .1rem 0;
+        padding: 1rem ;
     }
 
     h4
     {
-        font-size: 1.5rem;
-        padding: 1.1rem;
+        font-size: 2.3rem;
+        padding: 1rem;
+        width: 100%;
     }
 
     p 
     {
-        font-size: 1.2rem;
+        font-size: 1.8rem;
+        width: 100%;
+        text-align: center;
     }
 
     h1 
     {
         font-size: 2.5rem;
+        width: 100%;
     }
 
     .footer
     {
         text-align: center;
         font-size: 16px;
+        width: 100%;
     }
     
 }
@@ -729,50 +737,59 @@ p
 
     .about
     {
-        font-size: 3.5rem;
-        padding: 1.5rem;
+        font-size: 1.8rem;
+        padding: 1rem;
+        text-align: center;
+        width: 100%;
     } 
 
     .test
     {
         font-size: 1.5rem;
-        padding: .1rem;
+        padding: 1rem;
+        text-align: center;
+        width: 100%;
     } 
 
     .services
     {
-        font-size: 1.5rem;
-        padding: .1rem;
+        font-size: 1.8rem;
+        padding: 1rem;
+        text-align: center;
+        width: 100%;
     } 
 
     table  
     {
+        text-align: center;
         width: 100%;
-        padding-right: .1rem;
-        padding: 1rem 0;
+        padding: 1rem;
         font-size: 1rem;
     }
 
     h4
     {
-        font-size: 1.5rem;
+        font-size: 2.4rem;
         padding: 1.1rem;
+        text-align: center;
+        width: 100%;
     }
 
     p 
     {
-        font-size: 1.2rem;
+        font-size: 1.8rem;
     }
 
     .footer
     {
         text-align: center;
+        width: 100%;
         font-size: 16px;
     }
 
     h1 
     {
-        font-size: 2.5rem;
+        font-size: 3.5rem;
     }
 }
 
@@ -780,29 +797,31 @@ p
 {
     html
     {
-        font-size: 66.6%;
+        font-size: 80.6%;
     }
 
     .about
     {
-        font-size: 1.5rem;
-        padding-top: 17rem;
-        padding-bottom: 3rem;
+        font-size: 1.8rem;
+        padding: 1rem;
+        text-align: center;
         width: 100%;
 
     } 
 
     .test
     {
-        font-size: 1.5rem;
-        padding: .1rem;
+        font-size: 1.8rem;
+        padding: 1rem;
+        text-align: center;
         width: 100%;
     } 
 
     .services
     {
-        font-size: 1.5rem;
-        padding: .1rem;
+        font-size: 1.8rem;
+        padding: 1rem;
+        text-align: center;
         width: 100%;
     } 
 
@@ -811,34 +830,35 @@ p
     .footer
     {
         text-align: center;
+        width: 100%;
         font-size: 16px;
     }
 
     table  
     {
         width: 100%;
-        padding-right: .1rem;
-        padding: .1rem 0;
+        padding: 1rem;
+        text-align: center;
     }
 
     .header
     {
-        padding: .1rem;
+        padding: 1rem;
     }
 
     h4
     {
-        font-size: 1.5rem;
-        padding: 1.1rem;
+        font-size: 2.3rem;
+        padding: 1rem;
     }
 
     p 
     {
-        font-size: 1.2rem;
+        font-size: 1.8rem;
     }
 
     h1 
     {
-        font-size: 2.5rem;
+        font-size: 3.5rem;
     }
 }
