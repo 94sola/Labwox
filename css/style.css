@@ -645,6 +645,7 @@ p
     .about
     {
         font-size: 1.8rem;
+        padding-top: 17rem;
         padding: 1rem;
         width: 100%;
     } 
@@ -666,28 +667,23 @@ p
     table  
     {
         width: 100%;
-        padding-right: 1rem;
+        padding: 1rem;
         padding: 1rem ;
     }
 
     h4
     {
         font-size: 2.3rem;
-        padding: 1rem;
-        width: 100%;
     }
 
     p 
     {
         font-size: 1.8rem;
-        width: 100%;
-        text-align: center;
     }
 
     h1 
     {
         font-size: 2.5rem;
-        width: 100%;
     }
 
     .footer
@@ -738,8 +734,8 @@ p
     .about
     {
         font-size: 1.8rem;
+        padding-top: 17rem;
         padding: 1rem;
-        text-align: center;
         width: 100%;
     } 
 
@@ -747,7 +743,6 @@ p
     {
         font-size: 1.5rem;
         padding: 1rem;
-        text-align: center;
         width: 100%;
     } 
 
@@ -755,24 +750,12 @@ p
     {
         font-size: 1.8rem;
         padding: 1rem;
-        text-align: center;
         width: 100%;
     } 
-
-    table  
-    {
-        text-align: center;
-        width: 100%;
-        padding: 1rem;
-        font-size: 1rem;
-    }
 
     h4
     {
         font-size: 2.4rem;
-        padding: 1.1rem;
-        text-align: center;
-        width: 100%;
     }
 
     p 
@@ -803,9 +786,7 @@ p
     .about
     {
         font-size: 1.8rem;
-        padding: 1rem;
-        text-align: center;
-        width: 100%;
+        padding-top: 17rem;
 
     } 
 
@@ -813,16 +794,12 @@ p
     {
         font-size: 1.8rem;
         padding: 1rem;
-        text-align: center;
-        width: 100%;
     } 
 
     .services
     {
         font-size: 1.8rem;
         padding: 1rem;
-        text-align: center;
-        width: 100%;
     } 
 
     
@@ -834,12 +811,6 @@ p
         font-size: 16px;
     }
 
-    table  
-    {
-        width: 100%;
-        padding: 1rem;
-        text-align: center;
-    }
 
     .header
     {
