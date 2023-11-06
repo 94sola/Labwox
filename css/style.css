@@ -188,7 +188,7 @@ p
 .about
 {
     justify-content: center;
-    padding: 17rem;
+    padding: 10rem;
     padding-bottom: 3rem;
     background: #d6cece;
 }
@@ -241,74 +241,12 @@ p
     padding: .1rem;
 }
 
-.about
-{
-    justify-content: center;
-    padding: 17rem;
-    padding-bottom: 3rem;
-    background: #fffafa;
-}
 
-.about .box
-{
-    border: 0px solid;
-    width: 60rem;
-}
-
-.about .box h1
-{
-    color: var(--labwox-red);
-    font-size: 3.3rem;
-    font-family: 'Audiowide', cursive;
-
-}
-
-.about table
-{
-    width: 85%;
-    margin: auto;
-    border: .5px  solid var(--labwox-black);
-    border-collapse: collapse;
-    text-align: center;
-    font-size: 1.27rem;
-    table-layout: fixed;
-    color: var(--labwox-black);
-    font-family: Aeonik, sans-serif;
-    padding: .5rem;
-}
-
-
-.about .box tr
-{
-    border: 1px solid var(--labwox-black);
-    padding: .2rem;
-    color: var(--labwox-red);
-    width: 50%;
-}
-
-.about .box  td
-{
-    width: 55%;
-    margin: .7rem;
-    border: .5px  solid var(--labwox-black);
-    color: var(--light-color);
-    font-size: 1.13rem;
-}
-
-.about .box  th
-{
-    border: 1px solid var(--labwox-black);
-    color: var(--labwox-black);
-    font-size: 1.17rem;
-    width: 55%;
-    margin: .5rem;
-    padding: .1rem;
-}
 
 .test
 {
     justify-content: center;
-    padding: 17rem;
+    padding: 10rem;
     padding-top: .5rem;
     background: #fcecec;
 }
@@ -364,7 +302,7 @@ p
 .services
 {
     justify-content: center;
-    padding: 17rem;
+    padding: 10rem;
     padding-top: 3rem;
     background: #ece6e6;
 }
@@ -650,7 +588,27 @@ p
         font-size: 16px;
         width: 100%;
     }
-    
+ 
+    .about
+    {
+        justify-content: center;
+        padding: 10rem;
+        padding-bottom: 3rem;
+    }
+
+    .services
+    {
+    justify-content: center;
+    padding: 10rem;
+    padding-top: 3rem;
+    }
+
+    .test
+    {
+    justify-content: center;
+    padding: 10rem;
+    padding-top: 3rem;
+    }
 }
 
 @media (max-width: 768px)
@@ -678,6 +636,26 @@ p
         margin: 2rem 2.5rem;
         display: block;
     }
+
+    .about
+    {
+        justify-content: center;
+        padding: 10rem;
+        padding-bottom: 3rem;
+    }
+
+    .services
+    {
+    justify-content: center;
+    padding: 10rem;
+    padding-top: 3rem;
+    }
+    .test
+    {
+    justify-content: center;
+    padding: 10rem;
+    padding-top: 3rem;
+    }
 }
 
 @media (max-width: 450px)
@@ -687,6 +665,26 @@ p
         font-size: 70.6%;
     }
 
+    .about
+    {
+        justify-content: center;
+        padding: 10rem;
+        padding-bottom: 3rem;
+    }
+
+    .services
+    {
+    justify-content: center;
+    padding: 10rem;
+    padding-top: 3rem;
+    }
+
+    .test
+    {
+    justify-content: center;
+    padding: 10rem;
+    padding-top: 3rem;
+    }
 
     .footer
     {
