@@ -618,7 +618,7 @@ p
     {
         position: absolute;
         top: 110%;
-        right: -130%;
+        right: -100%;
         width: 40rem;
         box-shadow: var(--box-shadow);
         border-radius: .5rem;
