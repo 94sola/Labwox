@@ -618,7 +618,7 @@ p
     {
         position: absolute;
         top: 110%;
-        right: -100%;
+        right: -110%;
         width: 40rem;
         box-shadow: var(--box-shadow);
         border-radius: .5rem;
@@ -686,6 +686,4 @@ p
     {
         font-size: 2.5rem;
     }
-
-    h
 }
