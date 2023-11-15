@@ -574,6 +574,18 @@ p
     {
         font-size: 78.5%;
     }
+    
+    .header .navbar
+    {
+        position: absolute;
+        top: 110%;
+        right: -110%;
+        width: 40rem;
+        box-shadow: var(--box-shadow);
+        border-radius: .5rem;
+        color: var(--labwox-black);
+        background: var(--labwox-red);
+    }
 
     .header
     {
@@ -619,7 +631,7 @@ p
         position: absolute;
         top: 110%;
         right: -110%;
-        width: 40rem;
+        width: 60rem;
         box-shadow: var(--box-shadow);
         border-radius: .5rem;
         color: var(--labwox-black);
@@ -674,6 +686,18 @@ p
     {
         justify-content: center;
         padding: 4rem 2rem;
+    }
+
+    .header .navbar
+    {
+        position: absolute;
+        top: 110%;
+        right: -110%;
+        width: 80rem;
+        box-shadow: var(--box-shadow);
+        border-radius: .5rem;
+        color: var(--labwox-black);
+        background: var(--labwox-red);
     }
 
     .footer
